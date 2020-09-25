@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.custom-switch{
+    padding-left: 0 !important;
+}
+.custom-control{
+    padding-left: 0 !important;
+}
